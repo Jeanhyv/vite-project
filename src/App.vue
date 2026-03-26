@@ -36,7 +36,7 @@ const cambiarColor = () => {
   align-items: center;
   background-color: #2b7cff;
   padding: 0.8rem 1.5rem;
-  color: white;
+  color: rgb(103, 56, 56);
 }
 
 .nav-links {
@@ -46,7 +46,7 @@ const cambiarColor = () => {
 }
 
 .nav-links a {
-  color: white;
+  color: rgb(142, 61, 61);
   text-decoration: none;
   padding: 0.5rem 0.8rem;
   border-radius: 6px;
@@ -61,7 +61,7 @@ const cambiarColor = () => {
 .btn-color {
   background: rgba(255,255,255,0.2);
   border: none; 
-  color: white; 
+  color: rgb(126, 57, 57); 
   cursor: pointer; 
   padding: 5px 10px; 
   border-radius: 4px;
